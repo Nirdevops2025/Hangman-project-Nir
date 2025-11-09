@@ -1,2 +1,2 @@
-Print ("welcome to Hangman Game")
+print ("welcome to Hangman Game")
 print ("new text")
